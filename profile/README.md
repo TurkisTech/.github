@@ -2,6 +2,6 @@
 
 <img src="https://www.turkistech.online/turkistech-logo-original.svg" width="300" alt="Company Logo" />
 
-## [Website](https://turkistech.online/)
+## (https://turkistech.online/)
 
 ## <contact@turkistech.online>
